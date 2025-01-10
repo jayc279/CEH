@@ -24,8 +24,8 @@ This took me a long time to figure out, remember, what works for me may not work
 If you already own a laptop (check the recommendations in the link below to see if it meets the requirements) later you can switch to min-pc -or- pc -or- VPS). For a full report, access [Penetration Testing Setup](https://github.com/jayc279/CEH/setup-for-penetration-testing.md)  
 
 ### Starting list of tools to dive into Penetration Testing
-Here is a starter [list of tools](https://github.com/jayc279/CEH/blob/main/list-of-tools) that will get you going on your jounery to becoming a Penetration Tester.  
+Here is a starter [list of tools](https://github.com/jayc279/CEH/blob/main/list-of-tools.md) that will get you going on your jounery to becoming a Penetration Tester.  
 
 
 ### Books that helped my journey into Ethical Hacking 
-File [CEH-Books-Links](https://github.com/jayc279/CEH/blob/main/CEH-Books-Links) contains a list of books that helped me on my journey to becoming a Certified Ethical Hacker, and Penetration Tester.  
+File [CEH-Books-Links](https://github.com/jayc279/CEH/blob/main/CEH-Books-Links.md) contains a list of books that helped me on my journey to becoming a Certified Ethical Hacker, and Penetration Tester.  
