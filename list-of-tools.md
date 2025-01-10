@@ -33,7 +33,6 @@
 * P0f  - used in routine network monitoring, detection of unautorized network activity - no packets are sent to target making it harder to detect. 
 * Httprint  - gather as well as analyze signatures - identifies web server characteristics even if they are obfuscated.
 * Scanners - site specific; WPScan (WordPress scan), Drupal security scanner, Joomla scanner, Sharepoint scanner
-* Sn1per  - Auto Exploiter -  next-generation [information gathering tool](https://github.com/1N3/Sn1per)
 
 ### Utilities
 * whois - query displays information about a domain such as where it is registered and where its nameservers are pointing
