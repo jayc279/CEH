@@ -1,7 +1,7 @@
 
 
 # 🛡️ ShadowGuard
-**ShadowGuard** is a proactive security monitoring tool designed for the [CEH (Certified Ethical Hacker)](https://github.com/jayc279/CEH) repository. It functions as a lightweight IDS (Intrusion Detection System) and system integrity monitor, providing real-time visibility into unauthorized changes or suspicious network behavior.
+**ShadowGuard** is a proactive security monitoring tool designed for the [CEH (Certified Ethical Hacker)](https://github.com/jayc279/CEH) repository. It functions as a lightweight IDS (Intrusion Detection System) and system integrity monitor, providing visibility into suspicious network addresses.
 
 ---
 
