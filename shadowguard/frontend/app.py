@@ -1,7 +1,7 @@
 # Your entry point for testing the Agentic Flow.
 # import sys
 # sys.path.append(".")
-from cysec_funcs.audit import ShadowAuditor
+from backend.auditor_logic import ShadowAuditor
 import os
 
 import streamlit as st
